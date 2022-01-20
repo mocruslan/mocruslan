@@ -13,6 +13,7 @@ I am a software engineer from Austria 🇦🇹.
 
 ## Expertise
 <img align="left" alt="c" src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge" />
+<img align="left" alt="espressif" src="https://img.shields.io/badge/-Espressif-E7352C?logo=Espressif&logoColor=white&style=for-the-badge" />
 <img align="left" alt="python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
 <img align="left" alt="go" src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
 <img align="left" alt="aws" src="https://img.shields.io/badge/-Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
