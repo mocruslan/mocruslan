@@ -1,7 +1,7 @@
 ### Hello World 👋
 I am a software engineer from Austria 🇦🇹. 
-- 👨‍💻 Working for DiniTech and therefore, the future of EV-Charging
-- 📚 Studying at the FHCampus02 - Business Informatics
+- 👨‍💻 Working for **niceshops**
+- 📚 Studying at the FHCampus02 - Business Informatics (Paused)
 <br>
 
 ## Connect with me
