@@ -1,6 +1,6 @@
 ### Hey there, I'm Ruslan! 👋🚀
 
-🌍 Hailing from the beautiful landscapes of Austria 🇦🇹, I'm a software engineer with a burning passion for code and innovation. I'm on an exhilarating journey towards mastering the art of Full-Stack Development.
+🌍 From Austria 🇦🇹, I'm a software engineer with a burning passion for code and innovation. I'm on an exhilarating journey towards mastering the art of Full-Stack Development.
 
 👨‍💻 **Current Gig**: Crafting digital solutions at **niceshops**  
 📚 **Academic Pursuits**: Business Informatics at FHCampus02 (Taking a little break)  
